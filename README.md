@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rajesh K j<br> <br>Software developer | Java | React | Gen AI  | Agentic AI<br><br>🎓BE ECE Graduate (2026)<br>💻 Building software and AI-Powered applications<br>📚 Currently leanring Java , DSA , React , Gen AI<br>🚀Open to software Developer / Prompt engineer  
+Hi, I'm Rajesh K J<br> <br>Software developer | Java | React | Gen AI  | Agentic AI<br><br>🎓BE ECE Graduate (2026)<br>💻 Building software and AI-Powered applications<br>📚 Currently leanring Java , DSA , React , Gen AI<br>🚀Open to software Developer / Prompt engineer  
 
 
 ## 🌐 Socials:
